@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: To Do List for Huawei
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sￄﾱla
+Implementation-Vendor-Id: com.huawei.internproject
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/intern-proje
+ ct2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
